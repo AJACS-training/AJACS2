@@ -43,7 +43,7 @@ lsrc あっと brs どっと nihon-u どっと ac どっと jp
 
 ### 午後の部（13:30-17:30）  
 
-* 13:30 - 14:40 中村保一（かずさDNA研究所）[part 2: ゲノム塩基配列と類似検索 【実習】配列情報へのアクセス、[BLAST](http://togotv.dbcls.jp/20070808.html)あれこれ](part2.md)
-* 14:50 - 16:00 中村保一（かずさDNA研究所）[part 3: 塩基配列の注釈入門と遺伝子構造予測 【実習】遺伝子発見ツール・スプライスサイト予測・[BioMart](http://togotv.dbcls.jp/20070806.html)でデータ取得](part3.md)
-* 16:10 - 17:30 中村保一（かずさDNA研究所）[part 4: 遺伝子機能予測とDB高度化 【実習】[Interpro](http://togotv.dbcls.jp/20071115.html)・[GeneOntology](http://togotv.dbcls.jp/20071108.html)・[CyanoGenes・KazusaAnnotation](http://togotv.dbcls.jp/20080324.html)](part4.md)
+* 13:30 - 14:40 中村保一（かずさDNA研究所）[part 2](part2.md): ゲノム塩基配列と類似検索 【実習】配列情報へのアクセス、[BLAST](http://togotv.dbcls.jp/20070808.html)あれこれ
+* 14:50 - 16:00 中村保一（かずさDNA研究所）[part 3](part3.md): 塩基配列の注釈入門と遺伝子構造予測 【実習】遺伝子発見ツール・スプライスサイト予測・[BioMart](http://togotv.dbcls.jp/20070806.html)でデータ取得
+* 16:10 - 17:30 中村保一（かずさDNA研究所）[part 4](part4.md): 遺伝子機能予測とDB高度化 【実習】[Interpro](http://togotv.dbcls.jp/20071115.html)・[GeneOntology](http://togotv.dbcls.jp/20071108.html)・[CyanoGenes・KazusaAnnotation](http://togotv.dbcls.jp/20080324.html)
 
